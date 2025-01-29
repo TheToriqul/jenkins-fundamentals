@@ -192,6 +192,14 @@ This distributed Jenkins infrastructure deploys a master node for orchestration 
    - Run test job on agent
    - Monitor agent logs
    - Check connectivity
+
+<figure >
+  <p align="center">
+      <img src="./agents.svg" alt="Agent Setup Architecture" />
+      <p align="center">Agent Setup Architecture || Credit: Poridhi.io</p>
+  </p>
+</figure>
+
 </details>
 
 ## 💡 Key Learnings
